@@ -1,5 +1,6 @@
-host-keyword, discuss
-host-keyword, dcard
-host-suffix, dcard
+RULE-KEYWORD,host-keyword
+RULE-KEYWORD,discuss
+RULE-KEYWORD,dcard
+RULE-SUFFIX,dcard
 DOMAIN-SUFFIX,cdn.hinet.net
 DOMAIN-SUFFIX,tw02.nat.niin.win
